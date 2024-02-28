@@ -1,0 +1,1 @@
+Das Script gibt nach Eingabe des Namens  "Hallo -eingegebener Name-, willkommen bei Git!" aus.
